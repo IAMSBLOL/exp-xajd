@@ -25,6 +25,24 @@
     "paths": {
       "@/*": [
         "./src/*"
+      ],
+      "@/router": [
+        "./src/router"
+      ],
+      "@/router/*": [
+        "./src/router/*"
+      ],
+      "@/views/*": [
+        "./src/views/*"
+      ],
+      "@/components/*": [
+        "./src/components/*"
+      ],
+      "@/components": [
+        "./src/components"
+      ],
+      "@/assets/*": [
+        "./src/assets/*"
       ]
     }
   },
