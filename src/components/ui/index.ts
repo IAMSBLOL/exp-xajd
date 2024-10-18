@@ -12,6 +12,8 @@ export * from '@/components/ui/animated-beam'
 export * from '@/components/ui/animated-gradient-text'
 export * from '@/components/ui/popover'
 export * from '@/components/ui/drawer'
+export * from '@/components/ui/form'
+export * from '@/components/ui/label'
 export { TextRevealByWord } from '@/components/ui/text-reveal'
 export {
   Select,
